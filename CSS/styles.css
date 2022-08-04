@@ -1,0 +1,20 @@
+.joke-card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.joke-card {
+  background-color: #fff;
+  box-shadow: 0 0 10px rgb(48 63 100 / 15%);
+  color: black;
+  width: 400px;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 10px;
+  transition: transform 0.2s;
+}
+
+.joke-card .joke-card-div {
+  width: 115px;
+  margin: auto;
+}

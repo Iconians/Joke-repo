@@ -1,0 +1,42 @@
+@media screen and (max-width: 896px) {
+  .joke-card-wrapper {
+    display: block;
+    /* align-content: center; */
+    padding-bottom: 10px;
+  }
+
+  .joke-card {
+    margin: auto;
+    margin-bottom: 15px;
+  }
+}
+
+@media  screen and (max-width: 450px) {
+  .joke-card {
+    max-width: 350px;
+    width: 100%;
+  }
+}
+
+@media  screen and (max-width: 400px) {
+  .joke-card {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+
+@media  screen and (max-width: 370px) {
+  .joke-card {
+    max-width: 280px;
+    width: 100%;
+  }
+}
+
+@media  screen and (max-width: 345px) {
+  .joke-card {
+    max-width: 250px;
+    width: 100%;
+  }
+}
+
+  
